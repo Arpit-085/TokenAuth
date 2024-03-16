@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenAuth.API", "TokenAuth.API\TokenAuth.API.csproj", "{8D9AA764-5AD7-4523-8900-FB0CF8ABC2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9AA764-5AD7-4523-8900-FB0CF8ABC2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9AA764-5AD7-4523-8900-FB0CF8ABC2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9AA764-5AD7-4523-8900-FB0CF8ABC2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9AA764-5AD7-4523-8900-FB0CF8ABC2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F80EF6F-699F-4054-B7E2-C0027C5D93AE}
+	EndGlobalSection
+EndGlobal
